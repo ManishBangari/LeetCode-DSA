@@ -18,8 +18,6 @@ public:
             }
         }
 
-        for(int i : count)  cout<<i<<' ';
-
         return count[amount];
     }
 };
