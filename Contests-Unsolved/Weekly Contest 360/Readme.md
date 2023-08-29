@@ -1,1 +1,1 @@
-* Weekly Contest 360 *
+# Weekly Contest 360 
